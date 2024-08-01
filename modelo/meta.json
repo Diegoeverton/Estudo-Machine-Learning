@@ -18,8 +18,8 @@
   },
   "labels":{
     "textcat":[
-      "ALEGRIA",
-      "MEDO"
+      "POSITIVO",
+      "NEGATIVO"
     ]
   },
   "pipeline":[
